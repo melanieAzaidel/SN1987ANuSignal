@@ -1,0 +1,3 @@
+The Kamiokande-II observation of the neutrino burst can be found at https://inspirehep.net/literature/268851
+
+A nice overview of supernova neutrinos can be found at https://inspirehep.net/literature/247242
